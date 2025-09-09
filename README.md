@@ -1,4 +1,4 @@
-# 💼 イザーク (Isaac) - イザークコンサルティング株式会社 代表取締役
+# 💼 イザーク (Ezark) - イザークコンサルティング株式会社 代表取締役
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=500&lines=CPA+%E5%90%88%E6%A0%BC%E3%83%BB%E5%85%83%E8%B2%A1%E5%8B%99%E7%9C%81%E8%81%B7%E5%93%A1;Big4%E7%9B%A3%E6%9F%BB%E6%B3%95%E4%BA%BA%E5%87%BA%E8%BA%AB;AI%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%BBWEB%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B9%E3%83%88;%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E4%BC%81%E6%A5%AD%E7%B5%8C%E5%96%B6%E8%80%85" alt="Typing SVG" />

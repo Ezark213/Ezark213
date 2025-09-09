@@ -24,6 +24,36 @@
 
 ## 🚀 主要プロジェクト
 
+### 🎥 [NANJ Baseball](https://github.com/Ezark213/nanj-baseball)
+- **概要**: プロ野球情報から完全自動で動画コンテンツを生成
+- **技術**: JavaScript, Python, VoiceVox, MoviePy
+- **特徴**:
+  - 3サイトからリアルタイム野球情報を取得
+  - 60個のユニークなコメント自動生成
+  - 6種類の音声パターンで読み上げ
+  - YouTube投稿Ready形式で動画出力
+- **成果**: 「指定日の野球情報から音声・字幕・動画を完全自動生成！」
+
+### 🤖 [AI Coding Rules](https://github.com/Ezark213/AI-Coding)
+- **概要**: AI開発における品質標準とワークフロー集
+- **技術**: Claude Code, ChatGPT, 開発ワークフロー
+- **特徴**:
+  - エンタープライズレベルの実装指針
+  - 機能追加・バグ修正の体系的ワークフロー
+  - 品質保証チェックリスト
+  - "Ultrathink"アプローチによる包括的開発
+- **効果**: 「AIと協働してより良いコードを書く！🚀」
+
+### 📝 [Blog Prompt System](https://github.com/Ezark213/blog-prompt)
+- **概要**: AI活用による高品質WordPress記事自動生成システム
+- **技術**: Node.js, Claude Code, WordPress API
+- **特徴**:
+  - GPT研究 + Claude記事生成の最適化フロー
+  - API費用完全無料での運用
+  - GitHub連携プロンプト管理
+  - SEO最適化記事の自動生成
+- **実績**: 「完全自動化で高品質なWordPress記事を効率生成！」
+
 ### 📋 Tax Document Automation Suite
 税務事務所の業務効率化を目的とした統合ツールセット
 

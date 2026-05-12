@@ -1,10 +1,10 @@
 <div align="center">
 
-# Ezark213
+# 岩男 祐多 (Yuta Iwao)
 
-**会計 × AI エンジニア**
+**公認会計士試験合格者 / イザークコンサルティング株式会社 代表取締役**
 
-元財務省 | Big4監査法人出身 | CPA試験合格 | イザークコンサルティング株式会社 代表
+財務省・Big4監査法人・Big4税理士法人出身。会計×AI×Webの専門家。
 
 [![Website](https://img.shields.io/badge/ezark--consulting.com-000?style=flat&logo=google-chrome&logoColor=white)](https://ezark-consulting.com/)
 [![Note](https://img.shields.io/badge/note.com%2Ftax__ada-41C9B4?style=flat&logo=note.mu&logoColor=white)](https://note.com/tax_ada)
@@ -14,28 +14,40 @@
 
 ---
 
-税務・会計の実務知識をベースに、事務所のDX・業務自動化ツールを開発しています。  
-Claude Code を中心に AI ワークフローの設計・実装が得意領域です。
+財務・会計の実務知識（財務省・PwC・EY税理士法人）をベースに、AI・Webマーケティング・アプリ開発を組み合わせた経営支援を行っています。  
+Python・Claude Code を活用した業務自動化と、会計・税務領域への AI 実装が専門です。
+
+**保有資格**: 公認会計士試験合格 / ウェブ解析士 / 基本情報技術者
 
 ---
 
-## 主要プロジェクト
+## 実績
+
+| | |
+|---|---|
+| 累計支援プロジェクト | 30件以上 |
+| 自社開発ツール | 75本（DevToolBox） |
+| 公開記事数 | 1,000本以上 |
+| 自社運営プロダクト | 7件 |
+
+---
+
+## 主要プロジェクト・プロダクト
 
 ### [Kaike-AI](https://github.com/Ezark213/Kaike-AI)
-会計事務所向け AI アシスタント。Astro + Claude API で構築。
+会計事務所向け AI アシスタント（Astro + Claude API）
 
-### [mjs-to-freee](https://github.com/Ezark213/mjs-to-freee)
-ミロク情報サービス（MJS）から freee への移行を支援するナレッジベース＆Claude Codeスキル集。
-仕訳CSV分析・勘定科目CSV生成・移行ガイドHTML生成を `/mjs-analyze-journal` などのスキルで自動化。
+### [DevToolBox](https://ezark-consulting.com/achievements/)
+開発者向けツール集。JSON整形・JWT解析・正規表現テストなど75本収録
 
 ### [tax-doc-renamer](https://github.com/Ezark213/tax-doc-renamer)
-税務書類の自動分類・リネームツール（Python）。
+税務書類の自動分類・リネームツール（Python）
 
 ### [transcribe-app](https://github.com/Ezark213/transcribe-app)
-音声文字起こし → 議事録整形アプリ（Python）。
+音声文字起こし → 議事録整形アプリ（Python）
 
 ### [blog-prompt](https://github.com/Ezark213/blog-prompt)
-Claude を使った WordPress 記事自動生成システム（Node.js）。
+Claude を使った WordPress 記事自動生成システム（Node.js）
 
 ---
 
